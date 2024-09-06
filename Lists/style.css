@@ -1,0 +1,19 @@
+li {
+    list-style-position: inside;
+    font-family: monospace;
+    color: #8c520b;
+}
+
+.contents_list {
+    background-color: #fbf5ef;
+    border-radius: 40px;
+    width: 800px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.overview h4, .overview ul{
+    text-indent: 75px;
+}
